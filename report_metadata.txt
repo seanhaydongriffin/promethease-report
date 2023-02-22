@@ -1,0 +1,9 @@
+Promethease
+Version 0.1.166
+Analyzed genome_Sean_Griffin_v4_Full_20230221043105.zip <br>infiles /tmp/tmpoBgCMu
+On 2023-02-21 12:40:44.755936 UTC
+Found 23105 SNPedia genos
+
+promethease.html is the report. We're starting hear reports that some (browsers? OSs?) no longer allow double clicking on promethease.html to open the report. That will open the browser, but shows a blank page. If that happens to you, use File->Open to navigate to, then open, promethease.html
+
+The files below 'ui2libs' are support files, that all it to work offline. They aren't needed, nor used, when you have a network connection.
